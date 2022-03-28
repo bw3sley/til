@@ -6,3 +6,5 @@ Nós aprendemos coisas novas constantemente. Este é um repositório para compar
 
 - [git](/git)
 - [http](/http)
+- [css](/css)
+- [js](/js)
