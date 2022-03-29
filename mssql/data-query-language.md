@@ -9,14 +9,14 @@ Like its name says, It's a command that selects something from database.
 Eg:
 ```
     SELECT 
-        Name, 
-        Email,
-        Gender -- (PROJECTION)
+        User.Name, 
+        User.Email,
+        User.Gender -- (PROJECTION)
     
     FROM User - (ORIGIN)
 
     INNER JOIN Address // (JOIN)
-        ON User.Id = Adreess.Id_User
+        ON User.Id = Address.Id_User
 
-    WHERE Id = 1 // (SELECTION)
+    WHERE User.Id = 1 // (SELECTION)
 ```
