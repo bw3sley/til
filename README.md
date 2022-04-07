@@ -7,3 +7,4 @@ For new TILs, watch this repo or [follow me](https://www.linkedin.com/in/bwesley
 ## Content
 
 - [Microsoft SQL Server](./mssql/)
+- [JavaScript](./javascript/)
