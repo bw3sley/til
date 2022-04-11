@@ -4,7 +4,9 @@ Nós aprendemos coisas novas constantemente. Este é um repositório para compar
 
 ## Categorias
 
+- [css](/css)
 - [git](/git)
 - [http](/http)
-- [css](/css)
+- [html](/html)
+- [internet](/internet)
 - [js](/js)
