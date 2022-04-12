@@ -1,4 +1,4 @@
-# `git stash`: Salvando Mudanças Temporariamente no Git
+# Salvando arquivos temporariamente
 
 O comando `git stash` permite salvar temporariamente alterações em seu repositório sem precisar fazer um commit. Isso é útil quando você precisa trocar de branch ou testar algo sem perder o que já foi modificado.
 
