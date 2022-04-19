@@ -4,5 +4,4 @@ In SQL Server you can use the sp_columns system stored procedure to return colum
 Eg:
 ```
     SP_COLUMNS Customer
-
 ```
