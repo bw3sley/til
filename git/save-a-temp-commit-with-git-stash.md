@@ -75,3 +75,13 @@ git stash clear
 ```
 
 Cuidado! Isso apagará todas as mudanças armazenadas no stash.
+
+### Quando Usar?
+
+- Quando precisa trocar de branch rapidamente sem perder alterações.
+- Para testar uma nova ideia sem comprometer seu código atual.
+- Para limpar seu diretório de trabalho antes de um pull ou merge.
+
+### Referências
+
+- [Git Documentation: git stass](https://git-scm.com/docs/git-stash)
