@@ -8,3 +8,5 @@ For new TILs, watch this repo or [follow me](https://www.linkedin.com/in/bwesley
 
 - [Microsoft SQL Server](./mssql/)
 - [JavaScript](./javascript/)
+- [CSS](./css)
+- [HTTP](./http/)
