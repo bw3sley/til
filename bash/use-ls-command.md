@@ -9,5 +9,5 @@ O comando `ls` lista os arquivos dentro de uma pasta
 - `-S`: ordernar por tamanho
 
 ```bash
-C:/w3sLeYY> ls
+ls
 ```
