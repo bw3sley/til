@@ -1,7 +1,7 @@
-# Usando comando `cd`
+# Usando o comando `cd`
 
 O comando `cd` permite a navegação entre pastas.
 
 ```bash
-cd D:
+cd /home/user/documents
 ```
