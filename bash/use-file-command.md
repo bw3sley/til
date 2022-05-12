@@ -3,5 +3,5 @@
 O comando `file` trás informações sobre o arquivo,
 
 ```bash
-file
+file imagem.png
 ```
