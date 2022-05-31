@@ -4,8 +4,6 @@ As **Stored Procedures** no SQL Server são usadas para agrupar uma ou mais inst
 
 Quando você executa uma **stored procedure** pela primeira vez, o SQL Server cria um plano de execução e o armazena em cache. Em execuções subsequentes, o SQL Server reutiliza esse plano, resultando em uma execução mais rápida e com desempenho confiável.
 
-</br>
-
 ## Criando uma Stored Procedure
 
 Para criar uma **stored procedure**, utilize o comando `CREATE PROCEDURE`.
