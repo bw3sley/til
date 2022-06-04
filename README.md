@@ -5,8 +5,14 @@ Nós aprendemos coisas novas constantemente. Este é um repositório para compar
 ## Categorias
 
 - [css](/css)
+- [docker](/docker)
 - [git](/git)
-- [http](/http)
 - [html](/html)
+- [http](/http)
 - [internet](/internet)
-- [js](/js)
+- [javascript](/javascript)
+- [next](/next)
+- [react-native](/react-native)
+- [sql](/sql)
+- [tailwind](/tailwind)
+- [typescript](/typescript/)
