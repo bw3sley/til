@@ -10,4 +10,5 @@ For new TILs, watch this repo or [follow me](https://www.linkedin.com/in/bwesley
 - [JavaScript](./javascript/)
 - [CSS](./css)
 - [HTTP](./http/)
+- [Git](./git/)
 - [Need To Learn](./n2l/)
