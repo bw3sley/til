@@ -27,7 +27,7 @@ Exemplo de estado global:
 const user = useUserStore((state) => state.user);
 ```
 
-Estado HTTP representa dados vindos de requisições, como listas, detalhes ou status de carregamento retornados pela API.
+Estado HTTP representa dados vindos de requisições, como listas, detalhes e status de carregamento retornados pela API.
 
 Exemplo de estado HTTP:
 
