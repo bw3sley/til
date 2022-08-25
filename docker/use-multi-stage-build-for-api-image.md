@@ -13,7 +13,7 @@ created_at: "2022-06-16"
 
 # Usar multi-stage build para reduzir imagem de uma API
 
-No multi-stage build, dependencias de build ficam em um estágio separado e imagem final recebe só artefatos e dependencias de runtime.
+No multi-stage build, dependências de build ficam em um estágio separado e imagem final recebe só artefatos e dependências de runtime.
 
 Isso evita levar código temporário, cache e ferramentas de compilação para container da API.
 
