@@ -9,7 +9,7 @@ Errors can be coding errors made by the programmer, errors due to wrong input, a
 A **RangeError** is thrown if you use a number that is outside the range of legal values.
 
 Eg:
-```
+```js
     let number1 = 1;
 
     try {
@@ -25,7 +25,7 @@ Eg:
 A **ReferenceError** is thrown if you use (reference) a variable that has not been declared.
 
 Eg:
-```
+```js
     let number1 = 5;
     
     try {
@@ -41,7 +41,7 @@ Eg:
 A **SyntaxError** is thrown if you try to evaluate code with a syntax error.
 
 Eg:
-```
+```js
     try {
         alert('Hello);   // Missing ' will produce an error
     }
@@ -55,7 +55,7 @@ Eg:
 A **TypeError** is thrown if you use a value that is outside the range of expected types.
 
 Eg:
-```
+```js
     let number1 = 1;
 
     try {
