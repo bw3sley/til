@@ -6,7 +6,7 @@
 ## Background properties
 A background with the following properties ...
 
-```
+```css
     background-color: #000;
     background-image: url(images/bg.gif);
     background-repeat: no-repeat;
@@ -15,14 +15,14 @@ A background with the following properties ...
 
 ... can be shortened to just one declaration:
 
-```
+```css
     background: #000 url(images/bg.gif) no-repeat left top;
 ```
 
 ## Font properties
 The following declarations ...
 
-```
+```css
     font-style: italic;
     font-weight: bold;
     font-size: .8em;
@@ -32,14 +32,14 @@ The following declarations ...
 
 ... can be shortened to the following:
 
-```
+```css
     font: italic bold .8em/1.2 Arial, sans-serif;
 ```
 
 ## Border properties
 With borders, the width, color, and style can be simplified into one declaration. For example, the following CSS ...
 
-```
+```css
     border-width: 1px;
     border-style: solid;
     border-color: #000;
@@ -47,14 +47,14 @@ With borders, the width, color, and style can be simplified into one declaration
 
 ... can be simplified as:
 
-```
+```css
     border: 1px solid #000;
 ```
 
 ## Margin and padding properties
 Shorthand versions of margin and padding values work similarly; the margin property allows for shorthand values to be specified using one, two, three, or four values. The following CSS declarations ...
 
-```
+```css
     margin-top: 10px;
     margin-right: 5px;
     margin-bottom: 10px;
@@ -63,7 +63,7 @@ Shorthand versions of margin and padding values work similarly; the margin prope
 
 ... are the same as the following declaration using the four value shorthand. Note that the values are in clockwise order, beginning at the top: top, right, bottom, then left (TRBL, the consonants in "trouble").
 
-```
+```css
     margin: 10px 5px 10px 5px;
 ```
 
