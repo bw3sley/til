@@ -2,7 +2,7 @@
 The **CONVERT()** function converts a value (of any type) into a specified datatype. It looks like the [CAST()](./cast.md) function.
 
 Eg: 
-```
+```sql
     SELECT 
         CONVERT(varchar, Information.Date, 110)
 

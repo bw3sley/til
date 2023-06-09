@@ -2,7 +2,7 @@
 The **IF...ELSE** statement is a control-flow statement that allows you to execute or skip a statement block based on a specified condition.
 
 Eg:
-```
+```sql
     IF (@Number > 5)
     BEGIN
         PRINT 'All good!'

@@ -2,7 +2,7 @@
 To query data from related tables, you often use the join clauses, either inner join or left join. In SQL Server, you can use these join clauses in the UPDATE statement to perform a cross-table update.
 
 Eg:
-```
+```sql
     UPDATE Users 
         SET Biography = 'Abobrinha'
     

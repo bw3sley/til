@@ -7,7 +7,7 @@ When you call a stored procedure for the first time, SQL Server creates an execu
 o create a stored procedure that wraps this query, you use the ``CREATE PROCEDURE`` statement.
 
 Eg:
-```
+```sql
     CREATE PROCEDURE ProductList
         @Product VARCHAR(20)
     AS
@@ -30,7 +30,7 @@ Eg:
 To execute a stored procedure, you use the ``EXECUTE`` or ``EXEC`` statement followed by the name of the stored procedure:
 
 Eg:
-```
+```sql
     EXECUTE ProductList;
 ```
 
@@ -38,7 +38,7 @@ Eg:
 To modify an existing stored procedure, you use the ``ALTER PROCEDURE`` statement.
 
 Eg:
-```
+```sql
     ALTER PROCEDURE ProductList
         @Product VARCHAR(20)
     AS
@@ -62,6 +62,6 @@ Eg:
 To delete a stored procedure, you use the ``DROP PROCEDURE`` or ``DROP PROC`` statement.
 
 Eg:
-```
+```sql
     DROP PROCEDURE ProductList;
 ```

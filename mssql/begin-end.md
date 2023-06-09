@@ -4,7 +4,7 @@ The **BEGIN...END** statement is used to define a statement block. A statement b
 In other words, if statements are sentences, the **BEGIN...END** statement allows you to define paragraphs.
 
 Eg:
-```
+```sql
     BEGIN
         SELECT
             Products.Id,

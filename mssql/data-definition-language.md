@@ -7,7 +7,7 @@ DDL is a set of SQL commands used to create, modify, and delete database structu
 This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
 
 Eg:
-```
+```sql
     CREATE DATABASE Store;
 
     CREATE TABLE Customers (
@@ -23,7 +23,7 @@ Eg:
 This command is used to delete objects from the database.
 
 Eg:
-```
+```sql
     DROP DATABASE Store;
 
     DROP TABLE Customers;
@@ -37,21 +37,21 @@ This is used to alter the structure of the database.
 ### Adding columns
 
 Eg:
-```
+```sql
     ALTER TABLE Student ADD (Age NUMERIC(5,2), Course VARCHAR(40));
 ```
 
 ### Modifying columns
 
 Eg:
-```
+```sql
     ALTER TABLE Student MODIFY Course VARCHAR(20);
 ```
 
 ### Dropping columns 
 
 Eg:
-```
+```sql
     ALTER TABLE Student DROP COLUMN Course;
 ```
 
@@ -68,6 +68,6 @@ This is used to remove all records from a table, including all spaces allocated 
 
 
 Eg:
-```
+```sql
     TRUNCATE TABLE Customers;
 ```

@@ -2,7 +2,7 @@
 The **BETWEEN** operator selects values within a given range. The values can be numbers, text, or dates.
 
 Eg:
-```
+```sql
     SELECT 
         * 
     
@@ -15,7 +15,7 @@ Eg:
 To display the products outside the range of the previous example, use ``NOT BETWEEN``.
 
 Eg:
-```
+```sql
     SELECT 
         * 
         
@@ -28,7 +28,7 @@ Eg:
 It selects all products with a ProductName between Carnarvon Tigers and Mozzarella di Giovanni.
 
 Eg:
-```
+```sql
     SELECT 
         * 
     

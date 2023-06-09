@@ -9,7 +9,7 @@ A **JOIN** clause is used to combine rows from two or more tables, based on a re
 Returns records that have matching values in both tables.
 
 Eg:
-```
+```sql
     SELECT 
         Orders.OrderID, 
         Customers.CustomerName
@@ -26,7 +26,7 @@ The **INNER JOIN** keyword selects all rows from both tables as long as there is
 Returns all records from the left table, and the matched records from the right table.
 
 Eg:
-```
+```sql
     SELECT 
         Customers.CustomerName, 
         Orders.OrderID
@@ -46,7 +46,7 @@ The **LEFT JOIN** keyword returns all records from the left table (table1), and 
 Returns all records from the right table, and the matched records from the left table.
 
 Eg:
-```
+```sql
     SELECT 
         Orders.OrderID, 
         Employees.LastName, 
@@ -67,7 +67,7 @@ The RIGHT JOIN keyword returns all records from the right table (table2), and th
 Returns all records when there is a match in either left or right table.
 
 Eg:
-```
+```sql
     SELECT 
         Customers.CustomerName, 
         Orders.OrderID
@@ -87,7 +87,7 @@ The **FULL OUTER JOIN** keyword returns all records when there is a match in lef
 A self join is a regular join, but the table is joined with itself.
 
 Eg:
-```
+```sql
     SELECT 
         CustomerA.CustomerName AS CustomerNameA, 
         CustomerB.CustomerName AS CustomerNameB, 

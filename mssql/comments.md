@@ -25,7 +25,7 @@ Eg:
 In line comments are an extension of multi line comments, comments can be stated in between the statements and are enclosed in between ``/*`` and ``*/``.
 
 Eg:
-```
+```sql
     SELECT * FROM /* Customers; */ 
     SELECT * FROM -- Customers
 ```

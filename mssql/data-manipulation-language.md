@@ -7,7 +7,7 @@ The SQL commands that deals with the manipulation of data present in the databas
 **INSERT** commands in SQL are used to insert data records or rows in a database table. In an **INSERT** statement, we specify both the column_names for which the entry has to be made along with the data value that has to be inserted.
 
 Eg:
-```
+```sql
     INSERT INTO Customer (
         Customer_Name, 
         Customer_Gender, 
@@ -27,7 +27,7 @@ Eg:
 **UPDATE** command or statement is used to modify the value of an existing column in a database table.
 
 Eg:
-```
+```sql
     UPDATE Cliente 
         SET Email = ‘example@example.com’ 
         
@@ -37,7 +37,7 @@ Eg:
 ### UPDATE more than one value
 
 Eg:
-```
+```sql
     UPDATE Customer 
         SET Customer_Gender = 'M' 
         
@@ -47,7 +47,7 @@ Eg:
 ### UPDATE using JOIN
 
 Eg:
-```
+```sql
     UPDATE Users 
         SET Biography = 'Abobrinha'
     
@@ -65,7 +65,7 @@ Eg:
 **DELETE** statement in SQL is used to remove one or more rows from the database table. It does not delete the data records permanently. We can always perform a rollback operation to undo a **DELETE** command. With **DELETE** statements we can use the **WHERE** clause for filtering specific rows.
 
 Eg:
-```
+```sql
     DELETE FROM Customer
     WHERE Customer_Id = 1
 ```
@@ -73,7 +73,7 @@ Eg:
 ### DELETE more than one value
 
 Eg:
-```
+```sql
     DELETE FROM Customer
     WHERE Customer_Id IN (1, 2, 3, 4)
 ```
@@ -81,7 +81,7 @@ Eg:
 ### DELETE using JOIN
 
 Eg:
-```
+```sql
     DELETE 
         Users
     

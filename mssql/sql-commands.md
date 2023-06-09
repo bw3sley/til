@@ -15,9 +15,9 @@ These SQL commands are mainly categorized into four categories as:
 SQL commands that can be used to model a database.
 
 Eg: 
-```
+```sql
     CREATE, DROP, ALTER, TRUNCATE, COMMENT, RENAME
-````
+```
 
 </br>
 
@@ -25,9 +25,9 @@ Eg:
 SQL commands that bring data from database.
 
 Eg: 
-```
+```sql
     SELECT
-````
+```
 
 </br>
 
@@ -35,9 +35,9 @@ Eg:
 SQL commands that are used to manipulate data.
 
 Eg: 
-```
+```sql
     INSERT, UPDATE, DELETE, LOCK, CALL, EXPLAIN PLAN
-````
+```
 
 </br>
 
@@ -45,9 +45,9 @@ Eg:
 SQL commands that handle database permissions.
 
 Eg: 
-```
+```sql
     GRANT, REVOKE
-````
+```
 
 </br>
 
@@ -55,6 +55,6 @@ Eg:
 SQL commands that deal with transactions inside the database.
 
 Eg: 
-```
+```sql
     COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION
-````
+```

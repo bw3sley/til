@@ -7,7 +7,7 @@ DQL statements are used for performing queries on the data within schema objects
 Like its name says, It's a command that selects something from database.
 
 Eg:
-```
+```sql
     SELECT 
         User.Name, 
         User.Email,

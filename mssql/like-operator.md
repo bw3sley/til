@@ -14,7 +14,7 @@ You can use two wildcards with LIKE:
 It selects everything that starts with ``something%``.
 
 Eg:
-```
+```sql
     SELECT 
         * 
         
@@ -27,7 +27,7 @@ Eg:
 It selects everything that finishes with ``%something``.
 
 Eg:
-```
+```sql
     SELECT 
         * 
     
@@ -40,7 +40,7 @@ Eg:
 It selects everything that contains ``%something%``.
 
  Eg:
-```
+```sql
     SELECT 
         * 
         
@@ -53,7 +53,7 @@ It selects everything that contains ``%something%``.
 It selects everything that starts and finishes with ``s%g``.
 
 Eg:
-```
+```sql
     SELECT 
         * 
         
@@ -70,7 +70,7 @@ Eg:
 It  selects everything that starts with "a" and are at least 3 characters in length.
 
 Eg:
-```
+```sql
     SELECT 
         * 
         

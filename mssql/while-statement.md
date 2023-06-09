@@ -2,7 +2,7 @@
 SQL WHILE loop provides us with the advantage to execute the SQL statement(s) repeatedly until the specified condition result turn out to be false.
 
 Eg:
-```
+```sql
     DECLARE Counter INT = 0
 	
     BEGIN

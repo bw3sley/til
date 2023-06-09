@@ -8,7 +8,7 @@ The **UNION** operator is used to combine the result-set of two or more **SELECT
 - **UNION ALL** to also select duplicate values
 
 Eg:
-```
+```sql
     SELECT 
         City, 
         Country 

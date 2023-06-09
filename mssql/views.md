@@ -11,7 +11,7 @@ You can add SQL statements and functions to a view and present the data as if th
 ## Creating a View
 
 Eg:
-```
+```sql
     CREATE VIEW Report AS
 	    SELECT 
 			Customer.Name,

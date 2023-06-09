@@ -4,7 +4,7 @@ The **CASE** statement goes through conditions and returns a value when the firs
 If there is no **ELSE** part and no conditions are true, it returns NULL.
 
 Eg:
-```
+```sql
     SELECT
         CASE 
             WHEN Cars.Brand = 'FIAT' THEN 1

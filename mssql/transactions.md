@@ -7,7 +7,7 @@ Transactions group a set of tasks into a single execution unit. Each transaction
 If everything is in order with all statements within a single transaction, all changes are recorded together in the database is called committed. The COMMIT command saves all the transactions to the database since the last COMMIT or ROLLBACK command.
 
 Eg:
-```
+```sql
     BEGIN TRAN
         UPDATE Customer
             SET Customer.CustomerName = 'w3sLeYY'
@@ -23,7 +23,7 @@ Eg:
 If any error occurs with any of the SQL grouped statements, all changes need to be aborted. The process of reversing changes is called rollback. This command can only be used to undo transactions since the last COMMIT or ROLLBACK command was issued. 
 
 Eg:
-```
+```sql
     BEGIN TRAN
         UPDATE Customer
             SET Customer.CustomerName = 'w3sLeYY'
@@ -39,7 +39,7 @@ Eg:
 A SAVEPOINT is a point in a transaction in which you can roll the transaction back to a certain point without rolling back the entire transaction. 
 
 Eg:
-```
+```sql
     SAVEPOINT SP1;
 
         DELETE FROM Student WHERE AGE = 20;
@@ -56,7 +56,7 @@ In general ROLLBACK is used to undo a group of transactions.
 This command is used to remove a SAVEPOINT that you have created. 
 
 Eg:
-```
+```sql
     RELEASE SAVEPOINT SP2;
 ```
 
