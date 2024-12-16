@@ -9,6 +9,7 @@ Nós aprendemos coisas novas constantemente. Este é um repositório para compar
 - [git](/git)
 - [html](/html)
 - [http](/http)
+- [ia](/ia)
 - [internet](/internet)
 - [javascript](/javascript)
 - [next](/next)
