@@ -5,7 +5,7 @@ slug: "define-image-with-dockerfile"
 tags:
   - docker
   - dockerfile
-created_at: "2026-07-04"
+created_at: "2022-06-09"
 
 ---
 

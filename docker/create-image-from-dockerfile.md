@@ -6,7 +6,7 @@ tags:
   - docker
   - images
   - dockerfile
-created_at: "2026-07-04"
+created_at: "2022-06-06"
 
 ---
 
