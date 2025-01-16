@@ -6,7 +6,7 @@ tags:
   - css
   - gradients
   - background
-created_at: "2026-07-05"
+created_at: "2022-03-23"
 
 ---
 
