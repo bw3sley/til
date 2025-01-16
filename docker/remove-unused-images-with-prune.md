@@ -6,7 +6,7 @@ tags:
   - docker
   - images
   - cleanup
-created_at: "2026-07-05"
+created_at: "2024-04-01"
 
 ---
 
