@@ -5,7 +5,7 @@ slug: "remove-unused-git-worktree"
 tags:
   - git
   - worktree
-created_at: "2026-07-04"
+created_at: "2025-11-27"
 
 ---
 
