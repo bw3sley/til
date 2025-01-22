@@ -5,7 +5,7 @@ slug: "pad-strings-with-padstart-and-padend"
 tags:
   - javascript
   - strings
-created_at: "2026-07-05"
+created_at: "2022-05-02"
 
 ---
 
