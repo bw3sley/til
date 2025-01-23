@@ -5,7 +5,7 @@ slug: "conditionally-spread-properties-into-object"
 tags:
   - javascript
   - objects
-created_at: "2026-07-05"
+created_at: "2022-04-15"
 
 ---
 
