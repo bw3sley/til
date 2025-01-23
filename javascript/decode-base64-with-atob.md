@@ -5,7 +5,7 @@ slug: "decode-base64-with-atob"
 tags:
   - javascript
   - base64
-created_at: "2026-07-05"
+created_at: "2022-04-20"
 
 ---
 
