@@ -5,7 +5,7 @@ slug: "combine-result-sets-with-union"
 tags:
   - mssql
   - union
-created_at: "2026-07-05"
+created_at: "2022-08-03"
 
 ---
 

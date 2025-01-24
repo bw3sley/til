@@ -5,7 +5,7 @@ slug: "number-rows-with-row-number"
 tags:
   - mssql
   - window-functions
-created_at: "2026-07-05"
+created_at: "2022-08-10"
 
 ---
 

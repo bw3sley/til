@@ -6,7 +6,7 @@ tags:
   - mssql
   - tsql
   - filters
-created_at: "2026-07-05"
+created_at: "2022-08-05"
 
 ---
 
