@@ -5,7 +5,7 @@ slug: "understand-difference-between-bundler-and-compiler"
 tags:
   - javascript
   - tooling
-created_at: "2026-07-05"
+created_at: "2022-05-05"
 
 ---
 

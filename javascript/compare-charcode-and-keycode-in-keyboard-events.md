@@ -6,7 +6,7 @@ tags:
   - javascript
   - dom
   - keyboard
-created_at: "2026-07-05"
+created_at: "2022-04-14"
 
 ---
 
