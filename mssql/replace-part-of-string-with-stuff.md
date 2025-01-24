@@ -5,7 +5,7 @@ slug: "replace-part-of-string-with-stuff"
 tags:
   - mssql
   - strings
-created_at: "2026-07-05"
+created_at: "2022-08-11"
 
 ---
 
