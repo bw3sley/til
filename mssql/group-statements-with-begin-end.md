@@ -5,7 +5,7 @@ slug: "group-statements-with-begin-end"
 tags:
   - mssql
   - tsql
-created_at: "2026-07-05"
+created_at: "2022-08-08"
 
 ---
 
