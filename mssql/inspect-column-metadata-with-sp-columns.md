@@ -5,7 +5,7 @@ slug: "inspect-column-metadata-with-sp-columns"
 tags:
   - mssql
   - metadata
-created_at: "2026-07-05"
+created_at: "2022-08-08"
 
 ---
 
