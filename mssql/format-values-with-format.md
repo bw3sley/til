@@ -5,7 +5,7 @@ slug: "format-values-with-format"
 tags:
   - mssql
   - format
-created_at: "2026-07-05"
+created_at: "2022-08-05"
 
 ---
 
