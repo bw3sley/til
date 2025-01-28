@@ -5,7 +5,7 @@ slug: "differentiate-local-global-and-http-state"
 tags:
   - react
   - state
-created_at: "2026-07-05"
+created_at: "2022-06-22"
 
 ---
 

@@ -5,7 +5,7 @@ slug: "compare-server-side-rendering-and-single-page-application"
 tags:
   - react
   - rendering
-created_at: "2026-07-05"
+created_at: "2022-06-21"
 
 ---
 
