@@ -5,7 +5,7 @@ slug: "use-commit-rollback-and-save-transaction"
 tags:
   - mssql
   - transactions
-created_at: "2026-07-05"
+created_at: "2022-08-12"
 
 ---
 

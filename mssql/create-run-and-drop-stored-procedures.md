@@ -5,7 +5,7 @@ slug: "create-run-and-drop-stored-procedures"
 tags:
   - mssql
   - procedures
-created_at: "2026-07-05"
+created_at: "2022-08-04"
 
 ---
 
