@@ -5,7 +5,7 @@ slug: "use-ddl-to-create-change-and-remove-structures"
 tags:
   - sql
   - ddl
-created_at: "2026-07-05"
+created_at: "2022-07-28"
 
 ---
 

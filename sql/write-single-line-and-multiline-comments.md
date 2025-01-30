@@ -5,7 +5,7 @@ slug: "write-single-line-and-multiline-comments"
 tags:
   - sql
   - comments
-created_at: "2026-07-05"
+created_at: "2022-08-02"
 
 ---
 
