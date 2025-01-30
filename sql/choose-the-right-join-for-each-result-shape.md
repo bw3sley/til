@@ -5,7 +5,7 @@ slug: "choose-the-right-join-for-each-result-shape"
 tags:
   - sql
   - joins
-created_at: "2026-07-05"
+created_at: "2022-07-25"
 
 ---
 

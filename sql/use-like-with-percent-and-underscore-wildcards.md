@@ -5,7 +5,7 @@ slug: "use-like-with-percent-and-underscore-wildcards"
 tags:
   - sql
   - like
-created_at: "2026-07-05"
+created_at: "2022-08-01"
 
 ---
 
