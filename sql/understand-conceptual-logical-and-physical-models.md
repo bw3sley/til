@@ -5,7 +5,7 @@ slug: "understand-conceptual-logical-and-physical-models"
 tags:
   - sql
   - database-design
-created_at: "2026-07-05"
+created_at: "2022-07-26"
 
 ---
 

@@ -5,7 +5,7 @@ slug: "understand-first-second-and-third-normal-form"
 tags:
   - sql
   - normalization
-created_at: "2026-07-05"
+created_at: "2022-07-27"
 
 ---
 
