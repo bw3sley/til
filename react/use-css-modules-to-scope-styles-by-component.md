@@ -5,7 +5,7 @@ slug: "use-css-modules-to-scope-styles-by-component"
 tags:
   - react
   - css-modules
-created_at: "2026-07-05"
+created_at: "2022-06-29"
 
 ---
 
