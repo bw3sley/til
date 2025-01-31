@@ -6,7 +6,7 @@ tags:
   - sql
   - permissions
   - dcl
-created_at: "2026-07-05"
+created_at: "2022-07-29"
 
 ---
 

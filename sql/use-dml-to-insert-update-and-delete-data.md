@@ -5,7 +5,7 @@ slug: "use-dml-to-insert-update-and-delete-data"
 tags:
   - sql
   - dml
-created_at: "2026-07-05"
+created_at: "2022-07-29"
 
 ---
 
