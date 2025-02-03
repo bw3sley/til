@@ -5,7 +5,7 @@ slug: "generate-random-integers-with-math-random"
 tags:
   - javascript
   - math
-created_at: "2026-07-05"
+created_at: "2022-04-28"
 
 ---
 

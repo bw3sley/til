@@ -5,7 +5,7 @@ slug: "type-arrays-of-objects-with-an-interface"
 tags:
   - typescript
   - interfaces
-created_at: "2026-07-05"
+created_at: "2022-06-17"
 
 ---
 
