@@ -6,7 +6,7 @@ tags:
   - nginx
   - redirects
   - https
-created_at: "2026-07-05"
+created_at: "2024-11-28"
 
 ---
 

@@ -5,7 +5,7 @@ slug: "use-props-to-pass-data-into-components"
 tags:
   - react
   - props
-created_at: "2026-07-05"
+created_at: "2022-07-01"
 
 ---
 
